@@ -1,16 +1,13 @@
 ### Hi there 👋
 
-<!--
-**lapbufam/lapbufam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Leonardo Augusto
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Olá, pessoal 👋
+Sou apaixonado por resolver problemas utilizando a programação.
+Estou finalizando a minha graduação em Ciência da Computação :computer:
+ <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
+ <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
+ <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games e seriados na Netflix.
+ <br/> :email: &nbsp; Entre em contato comigo: [LinkedIn](https://www.linkedin.com/in/leonardo-augusto-p-barreto) 
+| 
+[E-mail](mailto:lapb@icomp.ufam.edu.br)
