@@ -11,3 +11,5 @@ Estou finalizando a minha graduação em Ciência da Computação :computer:
  <br/> :email: &nbsp; Entre em contato comigo: [LinkedIn](https://www.linkedin.com/in/leonardo-augusto-p-barreto) 
 | 
 [E-mail](mailto:lapb@icomp.ufam.edu.br)
+
+![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=lapbufam&show_icons=true&theme=onedark)
